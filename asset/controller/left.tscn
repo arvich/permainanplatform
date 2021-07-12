@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://asset/controlerright.png" type="Texture" id=1]
+
+[node name="left" type="TouchScreenButton"]
+position = Vector2( 50, 360 )
+scale = Vector2( 24, 16 )
+normal = ExtResource( 1 )
