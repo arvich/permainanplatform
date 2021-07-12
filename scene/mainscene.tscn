@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://asset/splashscreen.tscn" type="PackedScene" id=1]
+
+[node name="UI" type="Node"]
+
+[node name="splash" parent="." instance=ExtResource( 1 )]
